@@ -4,7 +4,7 @@ package com.rbd.cloudcollect.domain;
 import javax.persistence.*;
 
 /**
- *用户表
+ *用户信息表
  *
  * */
 @Entity
